@@ -15,7 +15,7 @@ Session 2:
 * Students to finalize the title and copy for their campaigns.
 * Students to identify their target audience and fill the audience form [included here](https://github.com/tegacodes/BushwickAnalytica/blob/master/Audience-form.pdf) with their audience parameters. This form is for the Google Ad platform but alternate forms could be prepared based on Twitter or Facebook.
 
-To conclude, instructor posts ads to Google Ad platform.  
+To conclude, instructor posts ads to Google Ad platform. This does cost money. I used some of the production budget for this project to run each ad with a budget of $1 per day for a month with Google. This can obviously be tweaked depending on resources available.  
   
 ## Additional Readings and Resources
 * Sam Lavigne and Tega Brain, The New Organs: [https://lav.io/projects/the-new-organs/](https://lav.io/projects/the-new-organs/)
